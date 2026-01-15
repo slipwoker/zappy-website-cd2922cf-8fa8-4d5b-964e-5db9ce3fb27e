@@ -1,0 +1,57 @@
+# קהילת איתי בלב — Generative Engine Optimization Map
+
+> A רווחה חברתית ותמיכה בנפגעי טראומה business.
+
+---
+
+## Pages
+
+### בית
+https://-cd2922cf.zappy5.app
+קהילת איתי בלב - ארגון חברתי לתמיכה נפשית ופעילות חברתית לעובדים בארגון. הצטרפו לארגון התנדבותי המוביל בישראל למען נפגעי טראומה במלחמה.
+
+### תוכניות
+https://-cd2922cf.zappy5.app/programs
+תוכניות פעילות חברתית לעובדים בארגון של קהילת איתי בלב - ימי התנדבות, סדנאות העצמה ושותפות אסטרטגית. גלו כיצד הארגון שלכם יכול לתרום.
+
+### אודות
+https://-cd2922cf.zappy5.app/about
+קהילת איתי בלב - הסיפור של ארגון התנדבותי ישראל המוביל בתמיכה נפשית לנפגעי טראומה. גלו את החזון, המשימה והערכים שמניעים אותנו.
+
+### צור קשר
+https://-cd2922cf.zappy5.app/contact
+צרו קשר עם קהילת איתי בלב והצטרפו לתוכניות פעילות חברתית לעובדים בארגון. נשמח לשמוע מארגונים המעוניינים להיות שותפים במשימה הלאומית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cd2922cf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cd2922cf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cd2922cf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קהילת איתי בלב
+קהילת איתי בלב is a business in the רווחה חברתית ותמיכה בנפגעי טראומה industry.
+
+## Target Audience
+מנהלי רווחה ומשאבי אנוש בארגונים, תאגידים וגופים ציבוריים - קהל מגוון של חילונים ודתיים
+
+## Industry
+רווחה חברתית ותמיכה בנפגעי טראומה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-cd2922cf.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-cd2922cf.zappy5.app/robots.txt
